@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: 르네 캘리엇 통증 시리즈
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: github.com/jinyizan/LHR
+  analytics: null
+  locale: ko-KR
+  baseUrl: jinyizan.github.io/cailliet
   ignorePatterns:
     - private
     - templates
@@ -142,8 +141,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/og-image
     enabled: true
+  # 프로젝트 페이지(jinyizan.github.io/cailliet)라 CNAME 불필요. 커스텀 도메인 붙일 때 true로.
   - source: github:quartz-community/cname
-    enabled: true
+    enabled: false
   - source: github:quartz-community/canvas-page
     enabled: true
   - source: github:quartz-community/content-page
@@ -225,8 +225,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/jinyizan/cailliet
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
