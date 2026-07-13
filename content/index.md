@@ -122,7 +122,7 @@ title: 르네 캘리엇 통증 시리즈
 | `764401793-Rene-Cailliet-Pain-Mechanisms-and-Management` | *Pain: Mechanisms and Management*, F.A. Davis, 1993 | 영문 |
 
 > [!note] 원문 OCR 오류 발견 기록
-> - **『Neck and Arm Pain』 p.69** 신경근 요약표의 행 레이블이 C₃/C₄/C₇/C₈로 잘못 인쇄됨. 본문(p.65~68)·그림 49~51 캡션 기준으로 C₆·C₇·C₈로 재구성함.
+> - **『Neck and Arm Pain』 p.69** 신경근 요약표의 행 레이블이 C₃/C₄/C₇/C₈로 잘못 인쇄됨. 본문(p.65-68)·그림 49-51 캡션 기준으로 C₆·C₇·C₈로 재구성함.
 > - **『Low Back Pain Syndrome』** 본문의 "90 degrees of rotation occurs between L1 and L2"는 해부학적으로 비현실적이어서 채택하지 않음(흉요추 접합부 회전 약 10도만 반영).
 > - **『Pain: Mechanisms and Management』** 소직경 유수 침해섬유를 곳에 따라 "A-alpha"로 표기(비일관). 현대 표준인 **A-δ**로 통일함.
 
